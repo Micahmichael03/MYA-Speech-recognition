@@ -1,0 +1,11 @@
+install the ant lib
+pip install 
+- 
+ speech_recognition as sr
+ webbrowser
+ datetime
+ os
+ time
+ time as ctime
+ random
+ gtts  
